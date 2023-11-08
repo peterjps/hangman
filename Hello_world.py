@@ -9,4 +9,3 @@ if age == 15:
 	print("Age is equal to 15")
 else:
 	print("Age is equal to 15")
-x=100
